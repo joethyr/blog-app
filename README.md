@@ -1,24 +1,39 @@
-# README
+# Project: Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple weblog app built with Ruby on Rails.
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+A Ruby on Rails weblog project which is meant as a learning curve for making new Rails applications and connecting it to a database. The project assists in quickly creating the starting pieces of a Rails app through script generators, getting accquainted with the general layout of a Rails app, and understanding the basic principles of Model View Control and RESTful design.
 
-* System dependencies
+## Getting Started
 
-* Configuration
+### Ruby Version
 
-* Database creation
+* Rails 7 requires Ruby 2.7.0 or newer.
 
-* Database initialization
+### Installing
 
-* How to run the test suite
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-* Services (job queues, cache servers, search engines, etc.)
+### Executing program
 
-* Deployment instructions
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 
-* ...
+## Help
+
+Run command to view all of the options you can pass to rails application.
+```
+rails new --help
+```
+
+## Sources
+
+Inspiration, code snippets, etc.
+* [The Odin Project](https://www.theodinproject.com/lessons/ruby-on-rails-blog-app)
+* [Rails Guides](https://guides.rubyonrails.org/getting_started.html)
