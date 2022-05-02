@@ -12,19 +12,6 @@ A Ruby on Rails weblog project which is meant as a learning curve for making new
 
 * Rails 7 requires Ruby 2.7.0 or newer.
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
 ## Help
 
 Run command to view all of the options you can pass to rails application.
@@ -32,8 +19,7 @@ Run command to view all of the options you can pass to rails application.
 rails new --help
 ```
 
-## Sources
+## Web Resources
 
-Inspiration, code snippets, etc.
 * [The Odin Project](https://www.theodinproject.com/lessons/ruby-on-rails-blog-app)
 * [Rails Guides](https://guides.rubyonrails.org/getting_started.html)
