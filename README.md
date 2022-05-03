@@ -23,5 +23,5 @@ rails new --help
 
 ## Web Resources
 
-* [Learn Enough to Be Dangerous](https://www.theodinproject.com/lessons/ruby-on-rails-blog-app)
+* [The Odin Project](https://www.theodinproject.com/lessons/ruby-on-rails-blog-app)
 * [Rails Guides](https://guides.rubyonrails.org/getting_started.html)
